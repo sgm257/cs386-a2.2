@@ -1,4 +1,11 @@
 Meaghan
+- my name is M: magical
+		 E: easy-going
+		 A: appreciative
+		 G: good-natured
+		 H: honest
+		 A: aware
+		 N: nerdy
 
 Lauren - been coding since age 15, loves Doctor Who & Star Trek, spends too much money at bookmans. 
 
